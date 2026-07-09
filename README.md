@@ -34,8 +34,8 @@ This project involves:
 ---
 
 ## 🛠️ Important Links & Tools:
-- **[DrawIO]([https://www.drawio.com/](https://app.diagrams.net/#G11lmHG-Ecczh7_NKzz34nEiC8YPpAuqT0#%7B%22pageId%22%3A%22aramlbLzrnlwg6pRPL_5%22%7D)):** Design data architecture, models, flows, and diagrams.
-- **[Notion]([https://www.notion.com/templates/sql-data-warehouse-project](https://app.notion.com/p/DATA-Warehouse-Project-397236280f3780c0ab4fd620cd6a4815)):**the Project Template from Notion
+- **[DrawIO]([https://www.drawio.com/](https://app.diagrams.net/#G11lmHG-Ecczh7_NKzz34nEiC8YPpAuqT0#%7B%22pageId%22%3A%22aramlbLzrnlwg6pRPL_5%22%7D):** Design data architecture, models, flows, and diagrams.
+- **[Notion]([https://www.notion.com/templates/sql-data-warehouse-project](https://app.notion.com/p/DATA-Warehouse-Project-397236280f3780c0ab4fd620cd6a4815):**the Project Template from Notion
 
 
 ---
